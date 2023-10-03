@@ -1,9 +1,9 @@
 I stop playing FGO. 5 years withit and still no change it bad gacha. So I'm done with this game. So No More Update.
 
 Just another FGO Servant Checklist, but with NP Count.
-I make it possible to use with other gasha game which use multiple copy fomula.
+I make it possible to use with other gasha game which use multiple copy fomula. \
 Original by nechi: https://nechigawara.github.io/nechi-fgo-checklist/ \
-Updated (soon): https://imvertil.github.io/nechi-fgo-checklist/ \
+Updated (soon): https://imvertil.github.io/nechi-fgo-checklist/
 
 Library Use:
 * jQuery
